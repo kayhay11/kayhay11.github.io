@@ -2,7 +2,7 @@
 
 ## *Welcome*
 
-## File Contents
+## File Branches
 1. Main
 2. Algorithms and Data Structures: Photo - Display
 3. Software Engineering and Design: Temperature - sensor - with - LCD - display

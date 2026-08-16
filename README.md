@@ -4,10 +4,10 @@
 
 ## File Contents
 1. Main
-    a. Personal Assessment
-2. Photo - Display
-3. Temperature - sensor - with - LCD - display
-4. Weight - Tracker - App
+    a.     Personal Assessment
+3. Photo - Display
+4. Temperature - sensor - with - LCD - display
+5. Weight - Tracker - App
 
 
 ## *Personal Assessment*

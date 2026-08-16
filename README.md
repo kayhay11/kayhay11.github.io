@@ -1,4 +1,8 @@
-# Artifact - 2
+# *Artifact - 2*
 ## Temparature-sensor-with-LCD-display Narrative
 
 For this enhancement, I focused on improving the thermostat’s user interaction features by implementing reliable increase and decrease button controls for adjusting the system’s set point. The original codebase included placeholders for these functions, but the logic was incomplete and the display feedback was inconsistent. My goal was to create a more intuitive and responsive interface that allowed users to modify the set point in real time while receiving immediate visual confirmation on the LCD. I began by completing the processTempIncButton() and processTempDecButton() methods, ensuring that each button correctly updated the set point and triggered a temporary display override message showing the new value. I also refined the display management logic so that override messages appeared consistently across all button interactions rather than only when the decrease button fired. This required debugging the button input behavior, correcting the state comparison logic, and stabilizing the GPIO input handling so that false button presses no longer interfered with the display. Through this enhancement, I strengthened the thermostat’s usability by making the controls predictable, responsive, and clearly communicated to the user. The final result is a more polished and user friendly embedded system that demonstrates my ability to analyze existing code, troubleshoot hardware software interactions, and implement meaningful improvements that enhance the overall functionality of the device.
+
+
+<img width="352" height="382" alt="mod31" src="https://github.com/user-attachments/assets/b8d52af9-f754-4fca-b6c1-bfacc7a1ad27" />
+<img width="352" height="382" alt="mod32" src="https://github.com/user-attachments/assets/6a74acde-f43d-4e14-8500-5a6fde40bbb5" />

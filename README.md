@@ -1,5 +1,5 @@
-# Artifact - 3
-## Weight-Tracker App
+# **Databases**
+## *Weight - Tracker - App*
 
 My artifact is a mobile weight tracking application that I originally created earlier in my computer science program and later enhanced throughout this course. I selected this project for my ePortfolio because it demonstrates practical software development skills including Android UI design, event driven programming, database integration with SQLite, and iterative feature improvement. The app allows users to enter their current weight, set a goal, and view their progress over time. I’ve improved it by adding an updated progress calculation algorithm and a cleaner interface. These enhancements strengthened the underlying logic and made the app more user friendly and reliable. Through implementing these changes I met the course outcomes I planned to address in Module One, especially those related to designing algorithms and improving existing code for clarity and functionality. I do not need to update my outcome coverage plan because the enhancements fully align with the intended learning goals. Reflecting on the process, I learned how important it is to structure data correctly, validate user input, and test edge cases especially when calculating progress toward a goal. I also faced challenges such as preventing divide by zero errors and maintaining consistent state across activity launches but overcoming these issues helped me grow as a developer and strengthened my confidence in building real mobile applications.
 

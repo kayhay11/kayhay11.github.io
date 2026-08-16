@@ -22,6 +22,4 @@ These experiences shaped the artifacts included in my ePortfolio. Each artifact 
 Building this ePortfolio has helped me recognize how far I have come and where I want to go. I value clarity, reliability, and user-centered design, and I aim to continue developing as a full-stack or embedded systems engineer. The combination of technical knowledge, collaborative experience, and security awareness I gained throughout the program has made me more employable and better prepared to contribute meaningfully to the computer science field. This self-assessment serves as an introduction to the technical artifacts that follow, each one demonstrating a different dimension of my growth and the skills I will bring into my professional career.
 
 # Code Review
-[Download video](https://1drv.ms/v/c/d4095422d60e383f/IQC1VYvoeuk2R7pWONhBvo41AcRHJDk1kkskMzO-syxmlFA?e=DhskKS)
-
-
+[Click here for Code Review video](https://1drv.ms/v/c/d4095422d60e383f/IQC1VYvoeuk2R7pWONhBvo41AcRHJDk1kkskMzO-syxmlFA?e=DhskKS)

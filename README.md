@@ -1,6 +1,5 @@
+# *Welcome,*
 # Kayla Haywood - ePortfolio
-
-## *Welcome*
 
 ## File Branches
 1. Main
